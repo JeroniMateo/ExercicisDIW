@@ -1,0 +1,26 @@
+p#pieFoto{
+    text-align:center;
+    font-size: 17pt;
+    margin-bottom: 10%;
+    margin-top: -7%;
+}
+p#tit{
+    text-align:center;
+    font-size: 30pt;
+    margin-top: 0%;
+    
+}
+img{
+    margin-top: 10%;
+    margin-left: 30%;
+  margin-right: 20%;
+
+}
+div{
+  width: 600px;
+  height: 100px;
+  
+  
+  /* IMPORTANTE */
+  display: table;
+}
