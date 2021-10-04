@@ -1,0 +1,59 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgrey;
+}
+
+header {
+    position: relative;
+    background-color: rgb(154,205,50);
+    top: 20px;
+    height: 84px;
+}
+
+header img {
+    position: relative;
+    top: 16px;
+    left: 28px;
+    height: 83px;
+}
+
+ul#menu {
+    display: inline-flex;/* indica el valor de la propietat position i més propietats, si fan falta */
+}
+
+img#scissors{
+    position: absolute;
+    left: 315px;
+    z-index: -1;
+}
+ul#menu li {
+    background-color: black;
+    margin-left: 20px;
+    color: white;
+    font-size: 16px;
+    position: relative;
+    padding: 4px;
+    bottom: 80px;
+    display: flex;
+    top: -39px;
+}
+div {
+    margin-block: 40px;
+    position: relative;
+    left: 20px;
+    top: 44px;
+    width: 902px;
+    border: 1px solid green;
+}
+
+h1 {
+    /* indica el valor de la propietat position i més propietats, si fan falta */
+   color: white;
+    display: inline;
+    position: absolute;
+    top: 209px;
+    left: 450px;
+    font-size: 20pt;
+}
