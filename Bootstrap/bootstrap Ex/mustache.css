@@ -1,25 +1,22 @@
-.logo{
-    background-color: #1a6efd;
-    display: flex;
-    justify-content: center;
-    
+.logo {
+  background-color: #1a6efd;
+  display: flex;
+  justify-content: center;
 }
-.imgLogo{
-    margin: 1%;
+
+.row {
+  background-color: #32caf0;
 }
-.row{
-    background-color: #32caf0;
+
+.mustache {
+  color: #20292c;
+  text-align: center;
+  padding: 1rem;
+}
+
+#mustache6 {
+  color: #5d8bab;
+  text-align: left;
 }
 
 
-#mustache1,mustache2,mustache3,mustache4,mustache5{
-    color: #20292c;
-    
-}
-
-#mustache6{
-    color: #5d8bab;
-}
-.imgMustache{
-    padding: 30px;
-}
