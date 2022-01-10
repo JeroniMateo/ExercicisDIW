@@ -1,0 +1,9 @@
+.logo{
+    background-color: #1a6efd;
+    display: flex;
+    justify-content: center;
+    
+}
+.imgLogo{
+    margin: 1%;
+}
