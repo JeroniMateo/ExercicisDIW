@@ -7,3 +7,19 @@
 .imgLogo{
     margin: 1%;
 }
+.row{
+    background-color: #32caf0;
+}
+
+
+#mustache1,mustache2,mustache3,mustache4,mustache5{
+    color: #20292c;
+    
+}
+
+#mustache6{
+    color: #5d8bab;
+}
+.imgMustache{
+    padding: 30px;
+}
